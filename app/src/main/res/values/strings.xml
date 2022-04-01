@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Notification</string>
+
+    <string name="msg_channel_name">CHANNEL_NAME</string>
+    <string name="msg_channel_desc">Channel description text</string>
+    <string name="msg_show_notification">First notification</string>
+    <string name="msg_show_notification_second">Second notification</string>
+    <string name="msg_show_notification_third">Third notification</string>
+    <string name="msg_first_activity">
+        IN THE GRIM DARKNESS OF THE FAR FUTURE THERE IS ONLY WAR
+    </string>
+    <string name="msg_second_activity">Missed from User</string>
+    <string name="msg_third_activity">Meeting with the customer</string>
+    <string name="msg_open">Open</string>
+</resources>
